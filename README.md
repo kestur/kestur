@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kestur
 - 👀 I’m interested in ... being educated on Ruby 
 - 🌱 I’m currently learning ... Ruby
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Discord, kestur#6476
 
 <!---
