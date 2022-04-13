@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kestur
-- 👀 I’m interested in ... being educated on Ruby 
-- 🌱 I’m currently learning ... Ruby
-- 📫 How to reach me ... Discord, kestur#6476
+- 👀 I’m interested in ... being educated on Coding 
+- 🌱 I’m currently learning ... Coding
+- 📫 How to reach me ... kieransetty@outlook.com
 
 <!---
 kestur/kestur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
